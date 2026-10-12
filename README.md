@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO: animated banner -->
-<a href="https://github.com/Durgabhavaninanda">
+<a href="https://github.com/MadanuPranitha">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=AKSHAY%20KUMAR%20PALADUGU&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20%E2%80%A2%20PYTHON%20%E2%80%A2%20GENAI%20%E2%80%A2%20DATA%20SCIENCE&descSize=15&descAlignY=59&animation=fadeIn&color=0:071A2F,45:075985,75:0F766E,100:6D5AE6" width="100%" alt="MadanuPranitha — AI, Machine Learning, Python, GenAI and Data Science"/>
 </a>
 
@@ -13,8 +13,8 @@
 
 <br/><br/>
 
-<a href="https://github.com/Durgabhavaninanda"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/paladuguakshaykumar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/MadanuPranitha"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/MadanuPranitha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://coachwallah.com"><img src="https://img.shields.io/badge/Website-Coach%20Wallah-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="mailto:pranithamadanu04@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
@@ -259,10 +259,10 @@ Interested in a practical idea or technical collaboration? Reach out with a shor
 
 <div align="center">
 
-<a href="https://github.com/nandadurgab-cmyk"><img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/></a>
-<a href="https://www.linkedin.com/in/nandadurgabhavani/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/MadanuPranitha"><img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects"/></a>
+<a href="https://www.linkedin.com/in/pranithamadanu/"><img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://coachwallah.com"><img src="https://img.shields.io/badge/Coach%20Wallah-Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-<a href="mailto:akshaykumar8331@gmail.com"><img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:pranithamadanu04@gmail.com"><img src="https://img.shields.io/badge/Email-Start%20a%20Conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
